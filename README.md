@@ -12,6 +12,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/></a>&nbsp
